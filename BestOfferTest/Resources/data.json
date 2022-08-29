@@ -1,0 +1,56 @@
+[
+  {
+    "SourceAddress": "4.5827788,-74.1504487",
+    "DestinationAddress": "4.5870333,-74.1562906",
+    "Dimensions": [
+      1.4,
+      1.5,
+      1.6
+    ]
+  },
+  {
+    "SourceAddress": "4.5827788,-74.1504487",
+    "DestinationAddress": "4.5868697,-74.1252464",
+    "Dimensions": [
+      1.6,
+      1.18,
+      1.2
+    ]
+  },
+  {
+    "SourceAddress": "4.5827788,-74.1504487",
+    "DestinationAddress": "4.6142796,-74.1260728",
+    "Dimensions": [
+      1.15,
+      1.2,
+      1.1
+    ]
+  },
+  {
+    "SourceAddress": "4.5827788,-74.1504487",
+    "DestinationAddress": "4.6241444,-74.106097",
+    "Dimensions": [
+      1.5,
+      1.5,
+      1.5
+    ]
+  },
+  {
+    "SourceAddress": "4.5827788,-74.1504487",
+    "DestinationAddress": "4.6848043,-74.0842585",
+    "Dimensions": [
+      1.6,
+      1.2,
+      1.2
+    ]
+  },
+  {
+    "SourceAddress": "4.5827788,-74.1504487",
+    "DestinationAddress": "4.6848043,-74.0842585",
+    "Dimensions": [
+      1.1,
+      1.1,
+      1.1
+    ]
+  }
+]
